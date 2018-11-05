@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/qingkaikong/20171206_ML_basics_THW/master)
 
-This repo contains the workshop material for [The Hacker Within Berkeley](http://www.thehackerwithin.org/berkeley/) Fall 2018, you can find more information [here](http://www.thehackerwithin.org/berkeley/posts/2017-12-06-sklearn-f17.html). It is a short version of the material Qingkai Kong taught at [2017 CDIPS Data Science Workshop](http://cdips.physics.berkeley.edu/2017-cdips-data-science-workshop/), you can find the long version [here](https://github.com/qingkaikong/20170628_ML_sklearn). It is developed by [Qingkai Kong](http://seismo.berkeley.edu/qingkaikong/). 
+This repo contains the workshop material for [The Hacker Within Berkeley](http://www.thehackerwithin.org/berkeley/) Fall 2018, you can find more information [here](https://bids.github.io/dats/posts/2018-11-05-mlsklearn.html). It is a short version of the material Qingkai Kong taught at [2017 CDIPS Data Science Workshop](http://cdips.physics.berkeley.edu/2017-cdips-data-science-workshop/), you can find the long version [here](https://github.com/qingkaikong/20170628_ML_sklearn). It is developed by [Qingkai Kong](http://seismo.berkeley.edu/qingkaikong/). 
 
 ## Goals of the workshop
 
