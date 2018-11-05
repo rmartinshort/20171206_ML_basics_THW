@@ -34,7 +34,7 @@ def plot_confusion_matrix(cm, classes,
     plt.show()
     
 # Plotting decision regions
-def plot_desicion_boundary(X, y, clf, title = None):
+def plot_decision_boundary(X, y, clf, title = None):
     '''
     Helper function to plot the decision boundary for the SVM
     '''
